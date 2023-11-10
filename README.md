@@ -1,6 +1,6 @@
 # demo
 
-A new Flutter project.
+A Flutter project to display images. It includes a previous button to see the previous image, a next button for the next image and a random button to view random images.
 
 ## Getting Started
 
